@@ -22,5 +22,5 @@
     - variable: "SDC_ADDITIONAL_CONF"
       label: "Additional Configuration"
       description: "Content must be valid yaml code, use the escape \n parameter for new lines and adhere to proper indent requirements."
-      type: "string"
+      type: "password"
       required: false
